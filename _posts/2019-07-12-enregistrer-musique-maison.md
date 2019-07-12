@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enregistrer de la musique à la maison
-subtitle: Sans que ça sonne trop mal
+subtitle: Quelques idées et retour d'expérience
 bigimg: /img/home_studio.jpg
 tags: [musique,informatique]
 ---
