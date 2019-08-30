@@ -10,7 +10,7 @@ Pour un projet professionnel, j'ai eu besoin de générer automatiquement des QR
 Le code suivant, génère donc une image contenant la chaîne de caractères "Mes données !"
 Il est également possible de générer l'image dans un autre format, et à d'autres dimensions. 
 
-Pour télécharger la dll directement, vous pouvez [suivre ce lien](https://brouwerthomas.github.io/img/Zen.Barcode.Core.dll "Télécharger Zen.Barcode.Core"), ou alors passer par le package NuGet et en extraire la dll qui nous intéresse ici.
+Pour télécharger la dll directement, vous pouvez [suivre ce lien](https://github.com/brouwerthomas/brouwerthomas.github.io/raw/master/img/Zen.Barcode.Core.dll "Télécharger Zen.Barcode.Core"), ou alors passer par le package NuGet et en extraire la dll qui nous intéresse ici.
 
 ```powershell
 Add-Type -Path "D:\QR\Zen.Barcode.Core.dll" 
